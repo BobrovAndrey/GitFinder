@@ -28,4 +28,5 @@ searchUser.addEventListener('keyup', (e)=>{
     //Clear profile
 
   }
+  
 });
